@@ -33,7 +33,7 @@ The BLAST results also showed similarity with related diaphanous-related formin 
 
 ## 4. Frameshift Mutation in the Sinistral Allele
 
-The GenBank annotation of KU341305.1 identifies a one-base-pair deletion at position 243^244.
+The GenBank annotation of KU341305.1 identifies a one-base-pair deletion at position 243-244.
 
 The deleted base is reported as cytosine (C).
 
@@ -69,7 +69,7 @@ The sinistral protein is only 42 amino acids long and does not contain these ann
 
 The domain architecture is shown in:
 
-`figures/dia2_domain_architecture.png`
+`figures/domain_architecture_dia2.png`
 
 ## 7. Biological Interpretation
 
@@ -89,7 +89,7 @@ However, this sequence-based analysis alone does not demonstrate the exact cellu
 
 The domain architecture of the dextral and sinistral Dia2 proteins is shown in:
 
-`figures/dia2_domain_architecture.png`
+`figures/domain_architecture_dia2.png`
 
 ### Figure 2. Frameshift mutation
 
