@@ -73,11 +73,11 @@ The results suggest a strong difference between the dextral and sinistral Dia2 p
 
 ## Data Source
 
-NCBI GenBank
+The nucleotide and protein sequences used in this project were obtained from the NCBI GenBank database.
 
-Accession numbers:
+- Dextral dia2 mRNA: KU341304.1
+- Sinistral dia2 mRNA: KU341305.1
+- Dextral Dia2 protein: ALX18036.1
+- Sinistral Dia2 protein: ALX18037.1
 
-- KU341304.1
-- KU341305.1
-- ALX18036.1
-- ALX18037.1
+The sequence annotations and protein domain information were used for the comparative analysis presented in this repository.
