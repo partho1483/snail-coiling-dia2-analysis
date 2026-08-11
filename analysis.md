@@ -89,13 +89,13 @@ However, this sequence-based analysis alone does not demonstrate the exact cellu
 
 The domain architecture of the dextral and sinistral Dia2 proteins is shown in:
 
-`figures/domain_architecture_dia2.png`
+![Dia2 protein domain architecture](figures/domain_architecture_dia2.png)
 
 ### Figure 2. Frameshift mutation
 
 The proposed consequence of the one-base-pair deletion in the sinistral allele is shown in:
 
-`figures/dia2_frameshift_mutation.png`
+![Frameshift mutation in Dia2](figures/dia2_frameshift_mutation.png)
 
 ## 9. Limitations
 
@@ -103,7 +103,7 @@ This is a small sequence-based bioinformatics analysis.
 
 The analysis is based mainly on publicly available sequence annotations, BLAST results, and annotated protein domains.
 
-The results suggest a strong relationship between the sinistral allele, the frameshift mutation, and the truncated Dia2 protein. However, further experimental and computational analyses would be needed to determine the functional consequences of the mutation in detail.
+The results are consistent with a relationship between the sinistral allele, the frameshift mutation, and the truncated Dia2 protein. However, further experimental and computational analyses would be needed to determine the functional consequences of the mutation in detail.
 
 ## 10. Data Sources
 
